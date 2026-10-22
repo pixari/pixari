@@ -6,7 +6,7 @@ I work as an engineering leader in Munich, and in my spare time I build open-sou
 
 [OpenTodo](https://github.com/pixari/OpenTodo) ([open-todo.app](https://open-todo.app)) is a task manager you host yourself. It works offline, syncs across your devices, and your data stays on your server.
 
-I started it for myself, a bit as an experiment, and made it open source. Then many people wrote to me on Reddit with the same problem and the same wishes. Many of them began testing it, opening issues and talking with me about it, and now thousands of people use it. I'm grateful for every one of those messages.
+I started it for myself, a bit as an experiment, and made it open source. Then many people wrote to me on Reddit with the same problem and the same wishes. Many of them began testing it, opening issues and talking with me about it, and now hundreds of people use it. I'm grateful for every one of those messages.
 
 If you self-host and need a task manager, have a look. If you find a bug or miss something, [tell me](https://github.com/pixari/OpenTodo/issues).
 
