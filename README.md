@@ -13,7 +13,6 @@ If you self-host and need a task manager, have a look. If you find a bug or miss
 ### Other things I made
 
 - [gitvana](https://github.com/pixari/gitvana): learn git by playing, a retro browser game with real git commands
-- [dmfojs](https://github.com/pixari/dmfojs): don't make fun of JavaScript
 
 ### Sponsoring
 
